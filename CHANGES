@@ -1,5 +1,9 @@
 Revision history for lua-MessagePack
 
+0.5.2
+	import Debian files from Jason Pleau (Debian Maintainer)
+	add Debian package infrastructure
+
 0.5.1  Sat Jan 20 19:30:00 2018
 	fix extra bytes detection (see PR #26)
 	allows ipairs(mp.packers) (see PR #27)
